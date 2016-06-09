@@ -6,6 +6,7 @@ figure out the technical skill of a prospective hire.
 ## The challenges
 
 - [The To do app](/todo-app.md)
+- [The Noughts and Crosses app](/noughts_and_crosses.md)
 
 ## How to complete a challenge
 
