@@ -1,37 +1,33 @@
 #Noughts and Crosses Game Service
 This coding test is to build a simple Noughts and Crosses (Tic-Tac-Toe) game.
-The features of the service are documented as [User Stories]  
-There are some [technical requirements] that we require you adhere to. Finally we have 
-some [expectations] that describes what we expect from you.
+The features of the service are documented as [User Stories]. There are some [technical requirements] that we require you adhere to. Finally we have some [expectations] that describes what we expect from you.
 
 ## Game Rules 
-The game is played on a 3x3 grid.
-Players alternate to place their mark on an unoccupied space on the grid.
-The objective is to get three of their marks in a row.
- The first player uses X the second player uses O. 
- Play continues until either
-	 A player gets three of their marks in a row horizontally or diagonally
-or
-	there are no free spaces left on the grid.
+- The game is played on a 3x3 grid.
+- Players alternate to place their mark on an unoccupied space on the grid.
+- The objective is to get three of their marks in a row.
+- The first player uses X the second player uses O. 
+- Play continues until a player gets three of their marks in a row (horizontally or diagonally)
+  or there are no free spaces left on the grid.
 	
 
 
 ## User Stories 
 
-As a Player 
+*As a* Player
 I *need* to be able to start a game
 so *that* I can play noughts and crosses with a friend
 
-As a Player
+*As a* Player
 I *need* to be able place my mark (O or X ) on a gameboard
 that my friend or I have started.
 so *that*  I can participate in a game of noughts and crosses with a friend
 
-As a Player
+*As a* Player
 I *need* to be able to determine the outcome of the game
 so *that* I know if I have won , lost, or drawn.
 
-As the provider of the Game service
+*As the* provider of the Game service
 I *need* to ensure that the rules of noughts and crosses are enforced
 so *that*  games of noughts and crossed can be played
 
