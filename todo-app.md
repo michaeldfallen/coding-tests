@@ -36,8 +36,7 @@ some [expectations] that describes what we expect from you.
 ## Expectations
 
 All of these expectations are up to your own judgement. If you think you should
-you can deviate from these expectations. Expect us to we challenge you on why 
-you have made that change.
+you can deviate from these expectations.
 
 **We expect:**
 - A Restful API
