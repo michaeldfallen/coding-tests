@@ -49,7 +49,7 @@ you can deviate from these expectations.
 - Data to be persisted in a database.
 - Exhaustive documentation
 
-We have expectations that we have not documented here.
+We have expectations that we have not documented here. Use your best judgement.
 
 [user stories]: #user-stories
 [technical requirements]: #technical-requirements
