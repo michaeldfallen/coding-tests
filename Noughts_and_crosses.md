@@ -31,6 +31,10 @@ so *that* I know if I have won , lost, or drawn.
 I *need* to ensure that the rules of noughts and crosses are enforced
 so *that*  games of noughts and crossed can be played
 
+*As the* provider of the Game service
+I *need* to support multiple conncurrent games
+so *that* many people can play at the same time
+
 
 
 ## Technical Requirements
