@@ -1,40 +1,40 @@
 #Noughts and Crosses Game Service
 This coding test is to build a simple Noughts and Crosses (Tic-Tac-Toe) game.
-The features of the service are documented as [User Stories]. There are some [technical requirements] that we require you adhere to. Finally we have some [expectations] that describes what we expect from you.
+The features of the service are documented as [User Stories]. There are some 
+[technical requirements] that we require you adhere to. Finally we have some 
+[expectations] that describes what we expect from you.
 
 ## Game Rules 
 - The game is played on a 3x3 grid.
 - Players alternate to place their mark on an unoccupied space on the grid.
 - The objective is to get three of their marks in a row.
-- The first player uses X the second player uses O. 
-- Play continues until a player gets three of their marks in a row (horizontally or diagonally)
-  or there are no free spaces left on the grid.
-	
+- The first player uses X the second player uses O.
+- Play continues until a player gets three of their marks in a row 
+  (horizontally or diagonally) or there are no free spaces left on the grid.
 
 
 ## User Stories 
 
-*As a* Player
-I *need* to be able to start a game
+*As a* Player  
+I *need* to be able to start a game  
 so *that* I can play noughts and crosses with a friend
 
-*As a* Player
-I *need* to be able place my mark (O or X ) on a gameboard
-that my friend or I have started.
+*As a* Player  
+I *need* to be able place my mark (O or X ) on a gameboard that my friend or I 
+have started  
 so *that*  I can participate in a game of noughts and crosses with a friend
 
-*As a* Player
-I *need* to be able to determine the outcome of the game
+*As a* Player  
+I *need* to be able to determine the outcome of the game  
 so *that* I know if I have won , lost, or drawn.
 
-*As the* provider of the Game service
-I *need* to ensure that the rules of noughts and crosses are enforced
+*As the* provider of the Game service  
+I *need* to ensure that the rules of noughts and crosses are enforced  
 so *that*  games of noughts and crossed can be played
 
-*As the* provider of the Game service
-I *need* to support multiple conncurrent games
+*As the* provider of the Game service  
+I *need* to support multiple conncurrent games  
 so *that* many people can play at the same time
-
 
 
 ## Technical Requirements
@@ -43,7 +43,9 @@ so *that* many people can play at the same time
 - Clients will interact with the game service via a RESTful API.
 
 ## Expectations
-All of these expectations are up to your own judgement. If you think you should you can deviate from these expectations expect us to  challenge you on why you have made that change.
+All of these expectations are up to your own judgement. If you think you should 
+you can deviate from these expectations expect us to  challenge you on why you 
+have made that change.
 
 ### We expect:
 - Production quality code.
