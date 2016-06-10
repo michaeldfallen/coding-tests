@@ -28,13 +28,13 @@ so *that*  I can participate in a game of noughts and crosses with a friend
 I *need* to be able to determine the outcome of the game  
 so *that* I know if I have won , lost, or drawn.
 
-*As the* provider of the Game service  
-I *need* to ensure that the rules of noughts and crosses are enforced  
-so *that*  games of noughts and crossed can be played
+*So that* games of noughts and crossed can be played  
+*the* Game service  
+*will need to* enforce the rules of noughts and crosses
 
-*As the* provider of the Game service  
-I *need* to support multiple conncurrent games  
-so *that* many people can play at the same time
+*So that* many people can play at the same time  
+*the* Game Service  
+*will need to* support multiple concurrent games
 
 
 ## Technical Requirements
