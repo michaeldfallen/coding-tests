@@ -6,6 +6,7 @@ figure out the technical skill of a prospective hire.
 ## The challenges
 
 - [The To do app](/todo-app.md)
+- [The To do app front-end](/todo-app-frontend.md)
 - [The Noughts and Crosses app](/Noughts_and_crosses.md)
 - [Rock Paper Scissors](/rock-paper-scissors.md)
 - [Connect 4 ](/Connect_4.md)
