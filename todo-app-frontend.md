@@ -26,11 +26,11 @@ some [expectations] that describes what we expect from you.
 *so that* I don't forget which are most important to do
 
 *As a* person with sight impairment  
-*I need* assistive technology to help me interact with web browsers 
+*I need* assistive technology to help me interact with web browsers   
 *so that* I can use this to-do service.
 
-*So that* some users with restricted internet access(e.g. older browser, access via restrictive proxy server) can use the service
-*the* to-do application user interface
+*So that* some users with restricted internet access(e.g. older browser, access via restrictive proxy server) can use the service  
+*the* to-do application user interface  
 *will need* to be designed with this in mind.
 
 
